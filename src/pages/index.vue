@@ -42,14 +42,14 @@
 </template>
 
 <script>
-import mTabbar from "../components/tabbar.vue";
-import mTabbarItem from "../components/tabbar-item.vue";
+import mTabbar from '../components/tabbar.vue'
+import mTabbarItem from '../components/tabbar-item.vue'
 export default {
   components: {
     mTabbar,
     mTabbarItem
   }
-};
+}
 </script>
 
 <style scoped>

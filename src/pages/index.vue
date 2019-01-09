@@ -7,6 +7,7 @@
           alt=""
           slot="icon-normal"
         >
+        主页
       </m-tabbar-item>
       <m-tabbar-item id="tab2">
         <img
@@ -14,6 +15,7 @@
           alt=""
           slot="icon-normal"
         >
+        电影
       </m-tabbar-item>
       <m-tabbar-item id="tab3">
         <img
@@ -21,6 +23,7 @@
           alt=""
           slot="icon-normal"
         >
+        广播
       </m-tabbar-item>
       <m-tabbar-item id="tab4">
         <img
@@ -28,6 +31,7 @@
           alt=""
           slot="icon-normal"
         >
+        小组
       </m-tabbar-item>
       <m-tabbar-item id="tab5">
         <img
@@ -35,6 +39,7 @@
           alt=""
           slot="icon-normal"
         >
+        我的
       </m-tabbar-item>
     </m-tabbar>
 

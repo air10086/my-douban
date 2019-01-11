@@ -51,6 +51,7 @@
 </template>
 
 <script>
+// 对组件进行注册并使用
 import mTabbar from '../components/tabbar.vue'
 import mTabbarItem from '../components/tabbar-item.vue'
 export default {

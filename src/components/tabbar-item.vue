@@ -1,7 +1,7 @@
 <template>
   <a class="m-tabbar-item"
      :class="{'is-active':isActive}"
-     @click="$parent.$emit('input',id); console.log(this.$parent.value)">
+     @click="$parent.$emit('input',id)">
     <span class="m-tabbar-item-icon"
           v-show="!isActive">
       <slot name="icon-normal"></slot>
